@@ -1,11 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+My first flutter app.
+1)Learned how to implement the concept of Classes,Polymorphism,Abstraction and Encapsulation in a flutter app.
+2)Learned basic layout of flutter widgets and how they work with each other.
+3)Learned to add dart packages and use it in a project.
 
-
-# Quizzler Challenge Solution
-
-
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
